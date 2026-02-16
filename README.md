@@ -1,1 +1,1 @@
-The color of sun is yellow
+Hi yellow
